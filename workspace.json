@@ -2,6 +2,7 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "react-vite": "apps/react-vite",
     "vite-react": "apps/vite-react",
     "vite-react-e2e": "apps/vite-react-e2e"
   }
